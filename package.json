@@ -1,0 +1,19 @@
+{
+    "name": "eslint-config-portal",
+    "version": "1.0.0",
+    "description": "ESLint config for Portal demonstrate shareable configs for the Pluralsight Course on Eslint",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "peerDependencies": {
+        "eslint": "^7.0.0",
+        "eslint-plugin-this": "^0.2.2"
+    },
+    "keywords": [
+        "Error",
+        "Eslint -config"
+    ],
+    "author": "Matan Elitzur",
+    "license": "ISC"
+}
